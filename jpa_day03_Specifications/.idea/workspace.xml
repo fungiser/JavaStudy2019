@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="780e820d-c15a-44d6-9d55-2bf4da710c7e" name="默认" comment="">
+      <change afterPath="$PROJECT_DIR$/../application.properties配置/application.properties.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa_day03_manyToMany/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa_day03_manyToMany/jpa_day03_manyToMany.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa_day03_manyToMany/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa_day03_manyToMany/src/main/java/com/dream/dao/RoleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa_day03_manyToMany/src/main/java/com/dream/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa_day03_manyToMany/src/main/java/com/dream/pojo/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa_day03_manyToMany/src/main/java/com/dream/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa_day03_manyToMany/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa_day03_manyToMany/src/test/java/com/dream/test/ManyToManyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa_day03_manyToMany/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/src/main/java/cn/dream/springboot06datamybatis/SpringBoot06DataMybatisApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/src/main/java/cn/dream/springboot06datamybatis/config/DruidConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/src/main/java/cn/dream/springboot06datamybatis/config/MyBatisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/src/main/java/cn/dream/springboot06datamybatis/controller/DepartmentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/src/main/java/cn/dream/springboot06datamybatis/controller/EmpolyeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/src/main/java/cn/dream/springboot06datamybatis/dao/DepartmentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/src/main/java/cn/dream/springboot06datamybatis/dao/EmployeeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/src/main/java/cn/dream/springboot06datamybatis/entities/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/src/main/java/cn/dream/springboot06datamybatis/entities/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/src/main/java/cn/dream/springboot06datamybatis/service/DepartmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/src/main/java/cn/dream/springboot06datamybatis/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/src/main/resources/mybatis/mapper/EmployeeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/src/main/resources/sql/department.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/src/main/resources/sql/employee.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-06-data-mybatis/src/test/java/cn/dream/springboot06datamybatis/SpringBoot06DataMybatisApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-676714699">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="jpa_day03_Specifications" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jpa_day03_Specifications" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-boot-02-autoconfig" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="780e820d-c15a-44d6-9d55-2bf4da710c7e" name="默认" comment="" />
+      <created>1565104430640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565104430640</updated>
+      <workItem from="1565104431705" duration="37000" />
+      <workItem from="1565104564772" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="57000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.50141644" side_tool="true" weight="0.25" />
+      <window_info id="设计器" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50141644" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="调色板" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
